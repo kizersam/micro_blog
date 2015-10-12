@@ -22,6 +22,13 @@ button {
 	margin-top: 20px;
 	border-color: black;
 }
-span{
-	border: solid black;
+
+h3{
+	margin-top: 30px;
+	margin-bottom: 1px;
+	font-weight: bolder;
+}
+
+hr{
+	margin-top: 5px;
 }
