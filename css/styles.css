@@ -1,10 +1,27 @@
 body {
   color: #333;
   font-family: Helvetica, Arial, sans-serif;
-  background-color: skyblue; /* Sanity Check! */
+  background-image: url(http://wallpapers-for-ipad.com/download/summer-beach.jpg);
+  background-size: 100%;
 }
 
+
+
 h1 {
-  margin-top: 100px;
-  text-align: center;
+  font-family: 'Lobster', Georgia, Times, serif;
+    font-size: 70px;
+    line-height: 100px;
+    text-align: center;
+    color: rgb(0,0,150);
+}
+
+#input-box-text{
+	font-size: 20px;
+}
+button {
+	margin-top: 20px;
+	border-color: black;
+}
+span{
+	border: solid black;
 }
